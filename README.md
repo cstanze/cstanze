@@ -21,9 +21,9 @@ Almost anything JavaScript related. I'm really great at JavaScript so I might be
 ### 📫 This is all great! Now, how do I contact you?
 I'm down to talk as long as you keep it friendly and nice.
 
-**Email:** julius.nieves@sascholar.org *or* living.a.d4ydr34m@gmail.com
-**Discord:** Constanze#0001
-**Twitter:** @JulzTDG
+**Email:** julius.nieves@sascholar.org *or* living.a.d4ydr34m@gmail.com<br>
+**Discord:** Constanze#0001<br>
+**Twitter:** @JulzTDG<br>
 **Reddit:** /u/JulzTDG
 
 ### Anything else to know about you?
