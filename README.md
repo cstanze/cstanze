@@ -18,6 +18,9 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 ### What are your github and general code stats?
 You can find them here:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
