@@ -1,10 +1,3 @@
-![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
-![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 # Hey! So, you're viewing my profile... heres some info about me.
 
 ### 🔭 What am I working on?
@@ -21,6 +14,13 @@ Actually, yeah I am! If anyone has some React Native tips or Objective-C tips, I
 
 ### 💬 Ask me about...
 Almost anything JavaScript related. I'm really great at JavaScript so I *might* be able to answer your question!
+
+### What are your github and general code stats?
+You can find them here:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
+![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
 
 ### 📫 This is all great! Now, how do I contact you?
 I'm down to talk as long as you keep it friendly and nice.
@@ -42,6 +42,6 @@ Sure, lets list them out!
 
 **Zodiac:** Pisces.
 
-**Favorite Genres:** Currently, its a mix of Future Funk, Darksynth, and Japanese Pop.
+**Favorite Genres:** Currently, its a mix of Future Funk, Heavy Metal, and Breakcore.
 
 ## Thanks for stopping by, hope you find what you came here for!
