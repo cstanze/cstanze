@@ -19,7 +19,11 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 November, 2020 - 11 November, 2020
+
+C                     1 hr 15 mins    ███████████████████▒░░░░░   77.04 % 
+Makefile              18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
