@@ -1,6 +1,9 @@
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 # Hey! So, you're viewing my profile... heres some info about me.
 
