@@ -19,7 +19,7 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
 C                     1 hr 15 mins    ███████████████████▒░░░░░   77.04 % 
 Makefile              18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 % 
