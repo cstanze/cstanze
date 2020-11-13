@@ -21,9 +21,11 @@ You can find them here:
 ```text
 Week: 05 November, 2020 - 12 November, 2020
 
-C                     1 hr 15 mins    ███████████████████▒░░░░░   77.04 % 
-Makefile              18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+C                     4 hrs 55 mins   ████████████████████▓░░░░   82.50 % 
+Makefile              28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Markdown              22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Git Config            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Sublime Text Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
