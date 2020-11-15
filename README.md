@@ -21,11 +21,11 @@ You can find them here:
 ```text
 Week: 07 November, 2020 - 14 November, 2020
 
-C            6 hrs 48 mins   ██████████████████▓░░░░░░   75.14 % 
-Elixir       1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Makefile     28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+C            6 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.02 % 
+Elixir       5 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.17 % 
+Makefile     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
