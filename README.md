@@ -19,7 +19,7 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2020 - 02 December, 2020
+Week: 26 November, 2020 - 03 December, 2020
 
 Elixir       15 hrs 51 mins  ████████████▓░░░░░░░░░░░░   51.33 % 
 Python       5 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.58 % 
