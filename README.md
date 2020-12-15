@@ -21,10 +21,10 @@ You can find them here:
 ```text
 Week: 07 December, 2020 - 14 December, 2020
 
-Python                9 hrs 56 mins   ████████████████████████░   95.61 % 
-TOML                  21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Other                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                11 hrs 52 mins  ████████████████████████░   96.30 % 
+TOML                  21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Sublime Text Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
