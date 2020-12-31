@@ -51,6 +51,6 @@ Sure, lets list them out!
 
 **Zodiac:** Pisces.
 
-**Favorite Genres:** Currently, its a mix of Future Funk, Heavy Metal, and Breakcore.
+**Favorite Genres:** Currently, its a mix of Future Funk, Heavy Metal, and Future Core.
 
 ## Thanks for stopping by, hope you find what you came here for!
