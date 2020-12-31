@@ -36,7 +36,7 @@ I'm down to talk as long as you keep it friendly and nice.
 
 **Email:** living.a.d4ydr34m@gmail.com ***or*** developer.julius0301@gmail.com
 
-**Discord:** Constanze#0001 ***or*** Kaede 🌸#8552
+**Discord:** Constanze#0001 ***or*** ItssChloe#8552
 
 **Twitter:** @DrunkProgramer
 
