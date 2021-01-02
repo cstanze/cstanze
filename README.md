@@ -19,7 +19,7 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
 Objective-C   6 hrs           ███████████▓░░░░░░░░░░░░░   46.95 % 
 HTML          1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
