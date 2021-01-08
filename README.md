@@ -7,7 +7,7 @@ I've got a Discord-StackOverflow hybrid in the works. As soon as I get a PC, I'l
 Aren't we all still learning? But on a more serious note, I'm learning react native and still learning Objective-C as I continue making tweaks.
 
 ### 👯 Cool, who do you want to collab with?
-I'm currently working with a team on a next level Discord-StackOverflow hybrid. The [Cupertino Team](https://github.com/Cupertino-Development) is comprised of tweak developers, designers, bot developers, and me!
+I'm currently working with a team on a next level Discord-StackOverflow hybrid. The [Helselia Team](https://github.com/Helselia) is comprised of tweak developers, designers, bot developers, and me!
 
 ### 🤔 So, are you looking for help?
 Actually, yeah I am! If anyone has some React Native tips or Objective-C tips, I'd love to hear them!
