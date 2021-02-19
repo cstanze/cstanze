@@ -21,11 +21,11 @@ You can find them here:
 ```text
 Week: 11 February, 2021 - 18 February, 2021
 
-Python       11 hrs 46 mins  █████████████░░░░░░░░░░░░   52.35 % 
-Elixir       5 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.45 % 
-Rust         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-JavaScript   1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Other        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python       10 hrs 45 mins  █████████████░░░░░░░░░░░░   52.42 % 
+Elixir       5 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+JavaScript   2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
