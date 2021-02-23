@@ -19,7 +19,7 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
+Week: 15 February, 2021 - 22 February, 2021
 
 JavaScript   9 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   35.05 % 
 Python       5 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
