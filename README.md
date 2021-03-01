@@ -40,7 +40,7 @@ I'm down to talk as long as you keep it friendly and nice.
 
 **Twitter:** @DrunkProgramer
 
-**Reddit:** /u/JulzTDG
+**Reddit:** /u/JulzTDG ***or*** /u/DrunkProgramer
 
 ### Anything else to know about you?
 Sure, lets list them out!
@@ -51,6 +51,6 @@ Sure, lets list them out!
 
 **Zodiac:** Pisces.
 
-**Favorite Genres:** Currently, its a mix of Future Funk, Heavy Metal, and Future Core.
+**Favorite Artists:** Currently, its a Camellia, Kobaryro, and Logic.
 
 ## Thanks for stopping by, hope you find what you came here for!
