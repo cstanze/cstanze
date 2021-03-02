@@ -21,11 +21,11 @@ You can find them here:
 ```text
 Week: 22 February, 2021 - 01 March, 2021
 
-JavaScript   8 hrs 51 mins   ████████████▒░░░░░░░░░░░░   48.84 % 
-Rust         8 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   47.07 % 
-TOML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Rust         9 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.67 % 
+JavaScript   8 hrs 51 mins   ████████████░░░░░░░░░░░░░   47.97 % 
+TOML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Vue.js       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
