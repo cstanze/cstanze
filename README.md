@@ -21,11 +21,11 @@ You can find them here:
 ```text
 Week: 23 March, 2021 - 30 March, 2021
 
-Logos    6 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   44.89 % 
-Elixir   6 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   43.18 % 
-C++      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-GAS      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Erlang   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Logos    6 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.19 % 
+Elixir   5 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.46 % 
+Rust     56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+GAS      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Erlang   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
