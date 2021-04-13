@@ -17,17 +17,7 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 
 ### What are your github and general code stats?
 You can find them here:
-<!--START_SECTION:waka-->
-```text
-Week: 05 April, 2021 - 12 April, 2021
-
-Rust         7 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   36.71 % 
-C++          4 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON         2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Makefile     1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-```
-<!--END_SECTION:waka-->
+[![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze)](https://github.com/anuraghazra/github-readme-stats)
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
 
