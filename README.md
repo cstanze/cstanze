@@ -20,8 +20,8 @@ You can find them here:
 
 ![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze)
 
-![My stats uwu](https://github-readme-stats.vercel.app/api?username=Julz4455&show_icons=true&theme=onedark)
-![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz4455&layout=compact)
+![My stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
+![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact)
 
 ### 📫 This is all great! Now, how do I contact you?
 I'm down to talk as long as you keep it friendly and nice.
@@ -37,12 +37,6 @@ I'm down to talk as long as you keep it friendly and nice.
 ### Anything else to know about you?
 Sure, lets list them out!
 
-**Pronouns:** I'm fine with anything within: He/Him, They/Them, She/Her. I honestly don't care
+**Pronouns:** I'm fine with anything within: She/Her, They/Them, He/Him. I honestly don't mind
 
-**Fun fact:** I made my first tweak by just looking at other tweaks and learning the basics of Objective-C from that alone. I *never* took a course on Objective-C and *never* will.
-
-**Zodiac:** Pisces.
-
-**Favorite Artists:** Currently, its a Camellia, Kobaryro, and Logic.
-
-## Thanks for stopping by, hope you find what you came here for!
+**Favorite Artists:** Currently, its a Geoxor, Camellia, Kobaryo.
