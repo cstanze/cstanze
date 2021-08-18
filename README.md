@@ -19,6 +19,15 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 You can find them here:
 
 <!--START_SECTION:waka-->
+```text
+Week: 11 August, 2021 - 17 August, 2021
+
+C++        23 hrs 47 mins  █████████████████░░░░░░░░   67.89 % 
+Other      5 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Markdown   2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+CMake      58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Bash       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```
 <!--END_SECTION:waka-->
 <!-- ![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze) -->
 
