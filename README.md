@@ -18,7 +18,9 @@ Almost anything JavaScript related. I'm really great at JavaScript so I *might* 
 ### What are your github and general code stats?
 You can find them here:
 
-![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- ![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze) -->
 
 ![My stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact)
