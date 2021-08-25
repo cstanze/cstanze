@@ -24,7 +24,7 @@ You can find them here:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2021 - 23 August, 2021
+Week: 18 August, 2021 - 24 August, 2021
 
 Markdown   6 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 Other      6 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
