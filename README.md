@@ -24,7 +24,7 @@ You can find them here:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
 C++          7 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.89 % 
 Python       7 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 % 
