@@ -24,7 +24,7 @@ You can find them here:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
 Other        7 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.40 % 
 Rust         7 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 % 
