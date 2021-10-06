@@ -26,11 +26,11 @@ You can find them here:
 ```text
 Week: 29 September, 2021 - 05 October, 2021
 
-C          6 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
-Python     6 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-C++        5 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
-Other      3 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Makefile   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+C          13 hrs 55 mins  ███████████▓░░░░░░░░░░░░░   47.32 % 
+Python     6 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Other      3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+C++        2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Makefile   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 <!--END_SECTION:waka-->
 <!-- ![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze) -->
