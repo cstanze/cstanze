@@ -24,7 +24,7 @@ You can find them here:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
 C            11 hrs 15 mins  ███████████████▓░░░░░░░░░   62.13 % 
 TypeScript   2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
