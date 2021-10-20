@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Hiya! | cstanze
 description: cstanze's Bio
+logo: https://avatars.githubusercontent.com/u/22456602?v=4
+github:
+  is_user_page: true
