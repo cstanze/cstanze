@@ -18,8 +18,10 @@ Actually, yeah I am! If anyone has some LLVM tips or C++ tips, I'd love to hear 
 
 You can find them here:
 
-![Wakatime stats uwu](https://github-readme-stats.vercel.app/api/wakatime?username=constanze)
+![Wakatime stats uwu](https://github-readme-stats.vercel.app/api/wakatime?username=cstanze)
+
 ![Github Stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
+
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=onedark)
 
 ### 📫 Contact Me!
