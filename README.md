@@ -6,45 +6,29 @@ I'm human. I breathe, I eat, I sleep. Most importantly, I code ⚡️
 
 I'm doing solo work on a language compiler for my very own language! As soon as I get a better PC, I'll also be doing lots of game development.
 
-### 🌱 Ok, what are you learning?
+### 🌱 What are you learning?
 
 Aren't we all still learning?
 
-### 👯 Cool, who do you want to collab with?
+### 🤔 Are you looking for help?
 
-I'm currently not working with anybody and I don't have anything planned.
-
-### 🤔 So, are you looking for help?
-
-Actually, yeah I am! If anyone has some LLVM or C++ development tips, I'd love to hear them!
+Actually, yeah I am! If anyone has some LLVM tips or C++ tips, I'd love to hear them!
 
 ### 📊 Weekly development breakdown
 
 You can find them here:
 
-<!--START_SECTION:waka-->
-```text
-Week: 13 October, 2021 - 19 October, 2021
-
-C++          15 hrs 58 mins  █████████████████░░░░░░░░   68.65 % 
-TypeScript   2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-C            2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-CMake        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-```
-<!--END_SECTION:waka-->
-<!-- ![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=constanze) -->
-
-![My stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
+![Wakatime stats uwu](https://github-readme-stats.vercel.app/api/wakatime?username=constanze)
+![Github Stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
 ![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=onedark)
 
 ### 📫 Contact Me!
 
-I'd love to talk as long as you keep it friendly and nice.
+I'd love to talk as long as you keep it friendly!
 
 **Email:** jules.nieves@gmail.com
 
-**Discord:** Constanze#1337 *or* MissingNo#8552
+**Discord:** Constanze#1337 or MissingNo#8552
 
 **Twitter:** @DrunkProgramer
 
@@ -52,7 +36,7 @@ I'd love to talk as long as you keep it friendly and nice.
 
 ### Anything else to know about you?
 
-**Name:** Constanze
+**Name:** Jules
 
 **Pronouns:** she/her
 
