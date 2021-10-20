@@ -56,4 +56,4 @@ I'd love to talk as long as you keep it friendly and nice.
 
 **Pronouns:** she/her
 
-**Favorite Artists:** Currently, its a Geoxor, Camellia, my childhood favorite: Nirvana.
+**Favorite Artists:** Nirvana, Tame Impala, Geoxor
