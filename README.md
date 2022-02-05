@@ -1,40 +1,26 @@
-## Hiya there 👋
+## Hey there <3
 
-I'm human. I breathe, I eat, I sleep. Most importantly, I code ⚡️
+I'm a macOS, Compiler, and Backend developer based in Japan working with all my friends across the world <3
 
-### 🔭 What am I working on?
+**👩‍💻 Currently working for:** No one at the moment. Currently trying to get a job with Kagi!
 
-I'm doing solo work on a language compiler for my very own language! As soon as I get a better PC, I'll also be doing lots of game development.
+**🔭 Currently working on:** Rose, an idea for a new language!
 
-### 🌱 What are you learning?
+**🌱 Currently learning:** Blender! 3D art has always been a passion of mine
 
-Aren't we all still learning?
+**📫 Email:** [j.amalie@cstanze.dev](mailto:j.amalie@cstanze.dev)
 
-### 🤔 Are you looking for help?
+**💬 Discord:** `cstanze#1337` *or* `MissingNo#8552`
 
-Actually, yeah I am! If anyone has some LLVM tips or C++ tips, I'd love to hear them!
+**🐦 Twitter:** [@DrunkProgramer](https://twitter.com/DrunkProgramer)
+
+**👽 Reddit:** [/u/DrunkProgramer](https://reddit.com/u/DrunkProgramer)
 
 ### 📊 Weekly development breakdown
 
-You can find them here:
-
-![Wakatime stats uwu](https://github-readme-stats.vercel.app/api/wakatime?username=cstanze)
-
-![Github Stats uwu](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
-
-![Language Stats uwu](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=onedark)
-
-### 📫 Contact Me!
-
-I'd love to talk as long as you keep it friendly!
-
-**Email:** jules.nieves@gmail.com
-
-**Discord:** Constanze#1337 or MissingNo#8552
-
-**Twitter:** @DrunkProgramer
-
-**Reddit:** /u/DrunkProgramer
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=onedark)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cstanze)
 
 ### Anything else to know about you?
 
@@ -42,4 +28,4 @@ I'd love to talk as long as you keep it friendly!
 
 **Pronouns:** she/her
 
-**Favorite Artists:** Nirvana, Tame Impala, Geoxor
+**Favorite Artists:** Crumb, Eliminate, Emmure
