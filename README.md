@@ -4,7 +4,7 @@ I'm a Computer Scientist and Mathematician based in New York, working with frien
 
 **📫 Email:** [j.amalie@cstanze.dev](mailto:j.amalie@cstanze.dev)
 
-**💬 Discord:** `cstanze#1337` *or* `MissingNo#8552`
+**💬 Discord:** `cstanze#1337`
 
 **🐦 Twitter:** [@DrunkProgramer](https://twitter.com/DrunkProgramer)
 
