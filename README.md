@@ -1,12 +1,6 @@
-## Hey there <3
+## Hey there!
 
-I'm a macOS, Compiler, and Backend developer based in Japan working with all my friends across the world <3
-
-**👩‍💻 Currently working for:** No one at the moment. Currently trying to get a job with Kagi!
-
-**🔭 Currently working on:** Rose, an idea for a new language!
-
-**🌱 Currently learning:** Blender! 3D art has always been a passion of mine
+I'm a Computer Scientist and Mathematician based in New York, working with friends all across the world <3
 
 **📫 Email:** [j.amalie@cstanze.dev](mailto:j.amalie@cstanze.dev)
 
@@ -18,14 +12,5 @@ I'm a macOS, Compiler, and Backend developer based in Japan working with all my 
 
 ### 📊 Weekly development breakdown
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cstanze&show_icons=true&theme=onedark)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=onedark)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cstanze)
-
-### Anything else to know about you?
-
-**Name:** Jules
-
-**Pronouns:** she/her
-
-**Favorite Artists:** Crumb, Eliminate, Emmure
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cstanze&layout=compact&theme=noctis_minimus)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cstanze&layout=compact&theme=noctis_minimus)
