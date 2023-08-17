@@ -2,11 +2,11 @@
 
 I'm a Computer Scientist and Mathematician based in New York, working with friends all across the world <3
 
-**📫 Email:** [j.amalie@cstanze.dev](mailto:j.amalie@cstanze.dev)
+**📫 Email:** [jules.nieves0301@gmail.com](mailto:jules.nieves0301@gmail.com)
 
-**💬 Discord:** `cstanze#1337`
+**💬 Discord:** `@relane`
 
-**🐦 Twitter:** [@DrunkProgramer](https://twitter.com/DrunkProgramer)
+**🐦 Twitter:** [@ItsRelane](https://twitter.com/ItsRelane)
 
 **👽 Reddit:** [/u/DrunkProgramer](https://reddit.com/u/DrunkProgramer)
 
