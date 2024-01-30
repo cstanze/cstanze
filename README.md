@@ -1,12 +1,15 @@
 ## Hey there!
 
-I'm a Computer Scientist and Mathematician based in New York, working with friends all across the world <3
+I'm a Computer Scientist and Mathematician based in Oswego, New York, working with friends all across the world. I love writing compilers and using systems languages.
+
+SUNY Oswego Class of '27
+Computer Science B.A. and Music (Audio Rec. & Prod.) B.A.
 
 **📫 Email:** [jules.nieves0301@gmail.com](mailto:jules.nieves0301@gmail.com)
 
 **💬 Discord:** `@relane`
 
-**🐦 Twitter:** [@ItsRelane](https://twitter.com/ItsRelane)
+**🐦 Twitter:** [@ItsRelane](https://twitter.com/ItsRelane) (Out Of Commission Temporarily)
 
 **👽 Reddit:** [/u/DrunkProgramer](https://reddit.com/u/DrunkProgramer)
 
