@@ -1,10 +1,8 @@
 ## Hey there!
 
-I'm a Computer Scientist and Digital Artist based in Oswego, New York, working with friends all across the world. I absolutely love using C/C++, Rust, and Go.
+I'm a software developer and digital artist based in New York, working on whatever interests me. I prefer using C/C++ or Rust for most projects.
 
-SUNY Oswego Class of '27
-
-Computer Science B.A. and Audio Engineering B.A.
+SUNY Oswego Class of '27 - Computer Science B.Sc
 
 **📫 Email:** [jules.nieves0301@gmail.com](mailto:jules.nieves0301@gmail.com)
 
