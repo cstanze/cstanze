@@ -16,6 +16,7 @@ Big believer in privacy and security. Even bigger advocate against censorship an
 
 - **Favourite Game?** Cyberpunk 2077
 - **Favourite Music Genres?** Hard to pin down
+- **Any self-hosted services?** [Of course!](https://cstanze.dev)
 - **What are you listening to right now?**
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=psvitaaddictionz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=psvitaaddictionz&redirect=true)
