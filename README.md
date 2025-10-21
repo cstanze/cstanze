@@ -33,7 +33,7 @@ Big supporter for privacy and security. Even bigger advocate against censorship 
 - **Deploy:** Debian under PVE VMs
 
 <h3>
-  <img src="https://web.archive.org/web/20090830104026im_/http://geocities.com/bubblegate/book.gif" alt="geocities book icon" style="width: 1.5rem" />
+  <img src="https://blob.gifcities.org/gifcities/5BETKBJG636W75AAYE6XOI3A2L2P43BE.gif" alt="geocities book icon" style="width: 1.5rem" />
   education
 </h3>
 
@@ -44,7 +44,8 @@ Big supporter for privacy and security. Even bigger advocate against censorship 
   contact
 </h3>
 
-I speak English and Spanish (Yo hablo Inglés y Español)
+I speak English and Spanish, English preferred.
+*Yo hablo inglés y español pero prefiero inglés.*
 
 My e-mail is often crowded so I would prefer other means of messaging but it is still an option.
 
