@@ -17,14 +17,14 @@ Big supporter for privacy and security. Even bigger advocate against censorship 
 - **Any self-hosted services?** [Of course!](https://cstanze.dev)
 - **Favourite Game?** Cyberpunk 2077
 - **Favourite Music Genres?** Hard to pin down
-- **What are you listening to right now?**
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=psvitaaddictionz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=psvitaaddictionz&redirect=true)
+- **Favourite hobby right now?** 3D Printing, no doubt
 
 <h3>
   <img src="https://blob.gifcities.org/gifcities/Q2NWVWK3KEWACQ3D7HJ7P43V2WSG3DOM.gif" alt="geocities chain icon" style="width: 1.5rem" />
   tech stack
 </h3>
+
+*=== Software ===*
 
 - **General purpose:** C, C++, Rust
 - **Web frontend:** TypeScript, React over Astro
@@ -32,12 +32,12 @@ Big supporter for privacy and security. Even bigger advocate against censorship 
 - **Editors:** VSCode, NeoVim
 - **Deploy:** Debian under PVE VMs
 
-<h3>
-  <img src="https://blob.gifcities.org/gifcities/5BETKBJG636W75AAYE6XOI3A2L2P43BE.gif" alt="geocities book icon" style="width: 1.5rem" />
-  education
-</h3>
+*=== 3D Printing ===*
 
-[Southern New Hampshire University](https://snhu.edu) Class of '27 - Computer Science B.Sc
+- **Primary Printer:** Bambu A1, w/o AMS, w/ Innocube3D Swapmod kit
+- **Filament:** Creality or Bambu PLA, eSUN PETG-HF, Overture TPU. All either black or white.
+- **Slicer:** OrcaSlicer/BambuStudio, SimplyPrint for cloud slicing.
+- **Printer Management:** Bambuddy
 
 <h3>
   <img src="https://blob.gifcities.org/gifcities/2B3O2L4FUYPGGBOOGW56VV5N5FNBNNGX.gif" alt="geocities email box icon" style="width: 1.5rem" />
@@ -47,8 +47,7 @@ Big supporter for privacy and security. Even bigger advocate against censorship 
 I speak English and Spanish, English preferred.
 *Yo hablo inglés y español pero prefiero inglés.*
 
-My e-mail is often crowded so I would prefer other means of messaging but it is still an option.
+My e-mail is often crowded so I would prefer other means of messaging but it is still an option for asynchronous contact.
 
-- **Email:** [`jules@julesnieves.org`](mailto:jules@julesnieves.org)
+- **Email:** [`jules@cstanze.dev`](mailto:jules@cstanze.dev)
 - **Discord:** [`@relane`](https://discord.com/users/334067823229796367)
-- **Bluesky:** [`@relane.bsky.social`](https://bsky.app/profile/relane.bsky.social)
